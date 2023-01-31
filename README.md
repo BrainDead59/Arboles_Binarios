@@ -1,5 +1,5 @@
 <h1>Árboles binarios</h1>
-Este proyecto consiste en el desarrollo de varias versiones de árboles binarios, utilizando el lenguaje Java en el entorno de NetBeans, la documentación esta hecha con JavaDoc.
+Este proyecto consiste en el desarrollo de varias versiones de árboles binarios, utilizando el lenguaje Java en el entorno de NetBeans, la documentación esta hecha con JavaDoc, usando el paradigma de programación POO.
 
 <h2>Árboles implementados</h2>
 <ul>
